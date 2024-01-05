@@ -5,3 +5,4 @@ xsetroot -cursor_name left_ptr
 compfy -b
 ~/.fehbg
 slstatus &
+/usr/local/bin/nvidia.sh &
